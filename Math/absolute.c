@@ -8,7 +8,8 @@
 int main()
 
 {
-    int banana = abs(-11);
+    int banana;
+    banana = abs(-11);
 
     printf("The absolute value of the number is : %d", banana);
     return 0;
