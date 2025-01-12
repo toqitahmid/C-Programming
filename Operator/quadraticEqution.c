@@ -24,7 +24,7 @@ int main()
     x1 = (-b+d)/2*a;
     x2 = (-b-d)/2*a;
 
-    printf("x1 is : %.2f", x1);
+    printf("x1 is : %.2f\n", x1);
     printf("x2 is : %.2f", x2);
 
 
