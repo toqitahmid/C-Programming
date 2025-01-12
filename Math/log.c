@@ -8,7 +8,6 @@
 int main()
     
 {
-
     double number = 10, result;
     result = log(number);
     printf("The value of the log(%.2lf) is = %.4lf\n", number, result);
@@ -27,8 +26,7 @@ int main()
     double number4 = 0.35, result4;
     result4 = sin(number4);
     printf("The value of the exp(%.2lf) is = %.4lf\n", number4, result4);
-   
-    
-    return 0;
 
+
+    return 0;
 }
