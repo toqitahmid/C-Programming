@@ -7,10 +7,8 @@
 int main()
 
 {
-    
     double mango = pow(5,2);
 
     printf("The value is : %.2lf", mango);
     return 0;
-
 }
