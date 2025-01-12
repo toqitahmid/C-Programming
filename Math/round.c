@@ -1,6 +1,6 @@
 
 // Write a program that also prints using
-//  more of library function
+//  more of library function like rond(), trunc(), ceil() and floor() etc
 
 #include<stdio.h>
 #include<math.h>
