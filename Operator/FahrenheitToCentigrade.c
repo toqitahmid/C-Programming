@@ -6,6 +6,7 @@
 int main()
 
 {
+
     float fahrenheit;
 
     printf("Enter the fahrenhiet tempateture : ");
@@ -16,4 +17,5 @@ int main()
     printf("The centigrade temapreture is : %.2f", centigrade);
 
     return 0;
+    
 }
