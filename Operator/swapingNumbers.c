@@ -5,6 +5,7 @@
 int main()
 
 {
+    
     int apple, orange;
 
     printf("Enter ther first number : ");
