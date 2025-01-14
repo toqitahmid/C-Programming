@@ -8,6 +8,7 @@
 int main()
 
 {
+
     float hand1, hand2, hand3;
 
     printf("Enter the hand1 value : ");
