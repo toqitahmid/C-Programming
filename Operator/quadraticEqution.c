@@ -27,5 +27,4 @@ int main()
     printf("x1 is : %.2f\n", x1);
     printf("x2 is : %.2f", x2);
 
-
 }
