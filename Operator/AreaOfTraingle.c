@@ -5,6 +5,7 @@
 int main()
 
 {
+    
     int hight, base;
 
     printf("Enter the hight and base of a tringle : ");
