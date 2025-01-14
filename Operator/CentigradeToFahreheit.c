@@ -15,5 +15,4 @@ int main()
     printf("The Fahenhiet tempareture is : %.2f", fahrenhiet);
 
     return 0;
-
 }
