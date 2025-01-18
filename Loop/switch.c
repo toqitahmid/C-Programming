@@ -42,8 +42,8 @@ int main()
         printf("Five");
         break;
 
+        
         default : 
-
         printf("This is not a valid digit!");
 
 
